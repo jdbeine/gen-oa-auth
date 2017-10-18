@@ -1,1 +1,23 @@
 [1508365030] 2017-10-18 18:17:10 - gen-oa-auth **Event: Building gen-oa-auth from project-master
+[1508365036] 2017-10-18 18:17:16 - gen-oa-auth **Event: Git initialized and pushed to github.
+[1508365045] 2017-10-18 18:17:25 - gen-oa-auth **Event: Created developmedbnt and test databases on postgresql.
+[1508365045] 2017-10-18 18:17:25 - gen-oa-auth **Event: Switched to project folder.
+[1508365047] 2017-10-18 18:17:27 - gen-oa-auth **Event: Switched to project folder.
+[1508365050] 2017-10-18 18:17:30 - gen-oa-auth **Event: Switched to project folder.
+[1508365055] 2017-10-18 18:17:35 - gen-oa-auth **Event: Switched to project folder.
+[1508365056] 2017-10-18 18:17:36 - gen-oa-auth **Event: Route Added--> get 'welcome/index'
+[1508365056] 2017-10-18 18:17:36 - gen-oa-auth **Event: Switched to project folder.
+[1508365056] 2017-10-18 18:17:36 - gen-oa-auth **Event: Route Added--> root to: 'welcome#index'
+[1508365058] 2017-10-18 18:17:38 - gen-oa-auth **Event: Switched to project folder.
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Switched to project folder.
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Route Added--> resources :sessions
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Switched to project folder.
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Route Added--> get 'signup', to: 'users#new', as: 'signup'
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Switched to project folder.
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Route Added--> get 'login', to: 'sessions#new', as: 'login'
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Switched to project folder.
+[1508365062] 2017-10-18 18:17:42 - gen-oa-auth **Event: Route Added--> get 'logout', to: 'sessions#destroy', as: 'logout'
+[1508365069] 2017-10-18 18:17:49 - gen-oa-auth **Event: Switched to project folder.
+[1508365203] 2017-10-18 18:20:03 - gen-oa-auth **Event: Switched to project folder.
+[1508365203] 2017-10-18 18:20:03 - gen-oa-auth **Event: Deploying gen-oa-auth to heroku.
+[1508365215] 2017-10-18 18:20:15 - gen-oa-auth **Event: Switched to project folder.
